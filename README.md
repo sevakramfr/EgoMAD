@@ -1,1 +1,3 @@
 # Egocentric Video Domain Adaptation
+
+The benchmark dataset, code and model will be available soon...
