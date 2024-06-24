@@ -1,15 +1,16 @@
 # Egocentric Video Domain Adaptation
 
 ## Introduction
-This repository contains the PyTorch implementation of the MDDNet framework for UDA approach in fine-grained action recognition based on multiple datasets. The framework is experimented on publicly available UDA (EPIC-8 [1], ADL-7, and GTEA_KITCHEN-6[2]), and proposed MSUDA benchmarks.
+This repository includes the PyTorch implementation of the MDDNet framework for Unsupervised Domain Adaptation (UDA) in fine-grained egocentric action recognition. The framework is built on multiple datasets. We test the framework using publicly available UDA benchmarks like EPIC-8 [1], ADL-7, and GTEA_KITCHEN-6 [2], along with proposed MSUDA benchmarks.
+
 
 
 ## Datasets
 #### EPIC-8
-Download RGB frames from participants P01, P08 and P22 of the EPIC-KITCHENS-55 dataset, using official download script [Here](https://github.com/epic-kitchens/epic-kitchens-download-scripts)
+Download RGB frames from participants P01, P08 and P22 of the EPIC-KITCHENS-55 dataset, using official download script [Epic-kitchens](https://github.com/epic-kitchens/epic-kitchens-download-scripts)
 
 #### ADL-7 and GTEA_KITCHEN-6
-Follow the instructions in [EgoAction](https://github.com/XianyuanLiu/EgoAction).
+Download RGB frames for ADL-7 and GTEA_KITCHEN-6 by following the instructions in [EgoAction](https://github.com/XianyuanLiu/EgoAction).
 
 ## Code
 The code and model will be available soon...
