@@ -1,5 +1,5 @@
 # Introduction
-We present two distinct sets of Multi-Source Unsupervised Domain Adaptation (MSUDA) benchmarks for fine-grained egocentric action recognition. The details of the benchmark will be available at [Benchmark]()
+We present two distinct sets of Multi-Source Unsupervised Domain Adaptation (MSUDA) benchmarks for fine-grained egocentric action recognition. The details of the benchmark will be available at [Benchmark](https://github.com/sevakramfr/MDDNet/tree/main/annotation/MSUDA)
 
 # References
 1. X. Liu, S. Zhou, T. Lei, P. Jiang, Z. Chen, and H. Lu, “First-person video domain adaptation with multi-scene cross-site datasets and attentionbased methods,” IEEE Trans. Circuits Syst. 
