@@ -12,6 +12,9 @@ Download RGB frames from participants P01, P08 and P22 of the EPIC-KITCHENS-55 d
 #### ADL-7 and GTEA_KITCHEN-6
 Download RGB frames for ADL-7 and GTEA_KITCHEN-6 by following the instructions in [EgoAction](https://github.com/XianyuanLiu/EgoAction).
 
+## Benchmark
+For proposed MSUDA benchmarks refer [Annotation](https://github.com/XianyuanLiu/EgoAction).
+
 ## Code
 The code and model will be available soon...
 
