@@ -1,3 +1,4 @@
+# Introduction
 We present two distinct sets of Multi-Source Unsupervised Domain Adaptation (MSUDA) benchmarks for fine-grained egocentric action recognition. 
 
 The benchmarks are useful for cross-domain and cross-dataset evaluation across a wide range of kitchen and daily living environments.
@@ -5,7 +6,7 @@ The benchmarks are useful for cross-domain and cross-dataset evaluation across a
 The dataset contains clips selected from EPIC-Kitchens, ADL, GTEA and Kitchen datasets. 
 
 
-## References
+# References
 [1]. F. de la Torre, J. K. Hodgins, J. Montano, and S. Valcarcel, “Detailed human data acquisition of kitchen activities: the CMU-multimodal activity database (CMU-MMAC),” in Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) Workshop, 2009.
 
 [2]. A. Fathi, X. Ren, and J. M. Rehg, “Learning to recognize objects in egocentric activities,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., pp. 3281–3288, Jun. 2011
