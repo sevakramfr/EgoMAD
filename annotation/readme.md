@@ -1,5 +1,5 @@
 # Introduction
-We have compiled the existing UDA benchmarks EPIC-8 [3], ADL-7 and GTEA_KITCHEN-6 [1] for ready reference to the researchers. We would like to thank the original authors for their wonderful contributions. Additionally, we present two distinct sets of Multi-Source Unsupervised Domain Adaptation (MSUDA) benchmarks for fine-grained egocentric action recognition for future research in this area. The details of the benchmark is available at [Benchmark](https://github.com/sevakramfr/MDDNet/tree/main/annotation/MSUDA).
+We have compiled the existing UDA benchmarks EPIC-8 [3], ADL-7 and GTEA_KITCHEN-6 [1] for ready reference to the researchers. We would like to thank the original authors for their contributions. Additionally, we present two distinct sets of Multi-Source Unsupervised Domain Adaptation (MSUDA) benchmarks for fine-grained egocentric action recognition for future research in this area. The details of the benchmark is available at [Benchmark](https://github.com/sevakramfr/MDDNet/tree/main/annotation/MSUDA).
 
 # References
 1. X. Liu, S. Zhou, T. Lei, P. Jiang, Z. Chen, and H. Lu, “First-person video domain adaptation with multi-scene cross-site datasets and attentionbased methods,” IEEE Trans. Circuits Syst. 
