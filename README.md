@@ -14,5 +14,5 @@ Follow the instructions in [EgoAction](https://github.com/XianyuanLiu/EgoAction)
 The code and model will be available soon...
 
 ## References
-- [1] J. Munro and D. Damen, “Multi-modal domain adaptation for finegrained action recognition,” in Proc. IEEE Int. Conf. Comput. Vis. Work., Oct. 2019, pp. 3723–3726.
-- [2] X. Liu, S. Zhou, T. Lei, P. Jiang, Z. Chen, and H. Lu, “First-person video domain adaptation with multi-scene cross-site datasets and attentionbased methods,” IEEE Trans. Circuits Syst. Video Technol., vol. 33, no. 12, pp. 7774–7788, Dec. 2023.
+[^1]: J. Munro and D. Damen, “Multi-modal domain adaptation for finegrained action recognition,” in Proc. IEEE Int. Conf. Comput. Vis. Work., Oct. 2019, pp. 3723–3726.
+[^2]: X. Liu, S. Zhou, T. Lei, P. Jiang, Z. Chen, and H. Lu, “First-person video domain adaptation with multi-scene cross-site datasets and attentionbased methods,” IEEE Trans. Circuits Syst. Video Technol., vol. 33, no. 12, pp. 7774–7788, Dec. 2023.
