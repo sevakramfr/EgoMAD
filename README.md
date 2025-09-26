@@ -1,7 +1,7 @@
 # Egocentric Video Domain Adaptation
 
 ## Introduction
-This repository includes the PyTorch implementation of the EgoMAD: Multi-source Egocentric Domain Adaptation via Deep Dictionary Learning framework for Unsupervised Domain Adaptation (UDA) in fine-grained egocentric action recognition. The framework is built on multiple datasets. We test the framework using publicly available UDA benchmarks like EPIC-8 [1], ADL-7, and GTEA_KITCHEN-6 [2], along with proposed MSUDA benchmarks.
+This repository includes the PyTorch implementation of the EgoMAD: **M**ulti-source **Ego**centric **D**omain **A**daptation via Deep Dictionary Learning framework for Unsupervised Domain Adaptation (UDA) in fine-grained egocentric action recognition. The framework is built on multiple datasets. We test the framework using publicly available UDA benchmarks like EPIC-8 [1], ADL-7, and GTEA_KITCHEN-6 [2], along with proposed MSUDA benchmarks.
 
 
 
